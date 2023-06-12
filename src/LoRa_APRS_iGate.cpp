@@ -11,6 +11,7 @@
 #include "pins_config.h"
 #include "igate_config.h"
 #include "display.h"
+#include "bme680.h"
 
 #define VERSION   "2023.05.26"
 
